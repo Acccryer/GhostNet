@@ -1,0 +1,12 @@
+@inproceedings{ghostnet2020,
+  title={GhostNet: More Features from Cheap Operations},
+  author={Han, Kai and Wang, Yunhe and Tian, Qi and Guo, Jianyuan and Xu, Chunjing and Xu, Chang},
+  booktitle={CVPR},
+  year={2020}
+}
+@article{ghostnet2022,
+  title={GhostNets on Heterogeneous Devices via Cheap Operations},
+  author={Kai Han, Yunhe Wang, Chang Xu, Jianyuan Guo, Chunjing Xu, Enhua Wu and Qi Tian},
+  journal={IJCV},
+  year={2022}
+}
